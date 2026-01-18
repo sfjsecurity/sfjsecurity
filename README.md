@@ -5,7 +5,7 @@ This repository documents my hands on learning, problem-solving, and growth in t
 
 ## Objective
 
-My journey into technology led me to develop a strong interest in cybersecurity and understanding how systems are protected. Through hands-on labs and continuous learning, I’m building practical security and analytical skills focused on detection and response. My goal is to join a Security Operations Center as a Tier 1 SOC Analyst and continue growing as a blue team professional.
+My journey into tech led me to develop a strong interest in cybersecurity and understanding how systems are protected. Through hands on labs and continuous learning, I am building practical security and analytical skills focused on detection and response. My goal is to join a Security Operations Center as a Tier 1 SOC Analyst and continue growing as a blue team professional.
 
 ## Skills
 
