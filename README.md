@@ -7,9 +7,9 @@ This repository documents my hands on learning, problem-solving, and growth in t
 
 My journey into tech led me to develop a strong interest in cybersecurity and understanding how systems are protected. Through hands on labs and continuous learning, I am building practical security and analytical skills focused on detection and response. My goal is to join a Security Operations Center as a Tier 1 SOC Analyst and continue growing as a blue team professional.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Domain Services (AD DS)      | Active Directory Home Lab |
 | User & Group Administration                   | Active Directory Home Lab |
@@ -22,12 +22,8 @@ My journey into tech led me to develop a strong interest in cybersecurity and un
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
-| Vulnerability Assessment & Scanning	           | [Vulnerability Management Lab](https://github.com/sfjsecurity/VulnerabilityManagementLab)|
-| Risk-Based Vulnerability Prioritization (CVSS    | [Vulnerability Management Lab](https://github.com/sfjsecurity/VulnerabilityManagementLab)|
-| Manual Vulnerability Remediation (Windows/Linux) | [Vulnerability Management Lab](https://github.com/sfjsecurity/VulnerabilityManagementLab)|
-| Automated Vulnerability Remediation (PowerShell/Bash) | [Vulnerability Management Lab](https://github.com/sfjsecurity/VulnerabilityManagementLab)|
-| Secure Configuration & System Hardening	       | [Vulnerability Management Lab](https://github.com/sfjsecurity/VulnerabilityManagementLab)|
-| Vulnerability Program Design (Mid-Sized Business)| [Vulnerability Management Lab](https://github.com/sfjsecurity/VulnerabilityManagementLab)|
+- [Vulnerability Management Program Implementation](https://github.com/sfjsecurity/VulnerabilityManagementLab)
+- [Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/VulnerabilityManagementLab)
 
 ## Tools
 
@@ -60,9 +56,3 @@ My journey into tech led me to develop a strong interest in cybersecurity and un
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
 </div>
-
-## Projects
-- Active Directory Home Lab
-- Detection Lab
-- SOC Automation Project
-- [Vulnerability Management Lab](https://github.com/sfjsecurity/VulnerabilityManagementLab)
