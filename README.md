@@ -22,8 +22,8 @@ My journey into tech led me to develop a strong interest in cybersecurity and un
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
-- [Vulnerability Management Program Implementation](https://github.com/sfjsecurity/VulnerabilityManagementLab)
-- [Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/VulnerabilityManagementLab)
+- [Vulnerability Management Program Implementation](https://github.com/sfjsecurity/vulnerability-management-project)
+- [Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/vulnerability-management-project)
 
 ## Tools
 
