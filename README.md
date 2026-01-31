@@ -16,7 +16,13 @@ My journey into tech led me to develop a strong interest in cybersecurity and un
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| Vulnerability Assessment & Scanning	           | Vulnerability Management Lab|
+| Risk-Based Vulnerability Prioritization (CVSS    | Vulnerability Management Lab|
+| Manual Vulnerability Remediation (Windows/Linux) | Vulnerability Management Lab|
+| Automated Vulnerability Remediation (PowerShell/Bash) | Vulnerability Management Lab|
+| Secure Configuration & System Hardening	       | Vulnerability Management Lab|
+| Vulnerability Program Design (Mid-Sized Business)| Vulnerability Management Lab|
 
 ## Tools
 
