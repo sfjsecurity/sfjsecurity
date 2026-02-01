@@ -9,24 +9,31 @@ My journey into tech led me to develop a strong interest in cybersecurity and un
 
 ## Projects
 
-| Projects                                      | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Active Directory Domain Services (AD DS)      | Active Directory Home Lab |
-| User & Group Administration                   | Active Directory Home Lab |
-| Group Policy Objects (GPOs)                   | Active Directory Home Lab |
-| Password & Account Lockout Policies           | Active Directory Home Lab |
-| PowerShell Automation (AD)                    | Active Directory Home Lab |
-| SIEM Implementation and Log Analysis          | <!--<a href="https://google.com">--> Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection |  <!--<a href="https://google.com">--> Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
-- [Vulnerability Management Program Implementation](https://github.com/sfjsecurity/vulnerability-management-project)
-- [Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/vulnerability-management-project)
+## ⚠️ Vulnerability Management Projects
+- **[Vulnerability Management Program Implementation](https://github.com/sfjsecurity/vulnerability-management-project)**
+- **[Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/vulnerability-management-project)**
 
-## Tools
+## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sfjsecurity)**
 
+## ⚙️ SOC Automation Project
+- **[Security Automation with Shuffle SOAR)](https://github.com/sfjsecurity)**
+- **[Incident Response Planning and Execution)](https://github.com/sfjsecurity)**
+- **[Case Management with TheHive)](https://github.com/sfjsecurity)**
+- **[Scripting and Automation for Threat Mitigation)](https://github.com/sfjsecurity)**
+
+## 🕵️ Detection Lab
+- **[SIEM Implementation and Log Analysis)](https://github.com/sfjsecurity)**
+- **[Network Traffic Monitoring and Attack Detection)](https://github.com/sfjsecurity)**
+
+## 🗂️ Active Directory Home Lab
+- **[Active Directory Domain Services (AD DS)](https://github.com/sfjsecurity)**     
+- **[User & Group Administration)](https://github.com/sfjsecurity)**        
+- **[Group Policy Objects (GPOs)](https://github.com/sfjsecurity)**                 
+- **[Password & Account Lockout Policies)](https://github.com/sfjsecurity)**  
+- **[PowerShell Automation (AD)](https://github.com/sfjsecurity)**              
+
+## Tools & Technologies
 
 ### Network
 <div>
@@ -45,6 +52,18 @@ My journey into tech led me to develop a strong interest in cybersecurity and un
 <div>
     <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Cloud / Infrastructure
+<div>
+    <a href="https://portal.azure.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  
+</div>
+
+### Vulnerability Management
+<div>
+    <a href="https://cloud.tenable.com/"><img src="https://img.shields.io/badge/Tenable-000000?style=for-the-badge&logo=Tenable&logoColor=white" />
+
 </div>
 
 ## Certifications
