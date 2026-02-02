@@ -1,11 +1,8 @@
 # Hello, I'm Sana
 <a href="https://linkedin.com/in/sanajafferi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-This repository documents my hands on learning, problem-solving, and growth in technology and security.
-
-## Objective
-
-My journey into tech led me to develop a strong interest in cybersecurity and understanding how systems are protected. Through hands on labs and continuous learning, I am building practical security and analytical skills focused on detection and response. My goal is to join a Security Operations Center as a Tier 1 SOC Analyst and continue growing as a blue team professional.
+## IT & Cybersecurity Project Portfolio
+This repository documents my hands-on learning, problem-solving, and growth in IT and cybersecurity. The projects focus on areas such as vulnerability management, threat detection, and security operations, and reflect practical, real-world scenarios.
 
 ## Projects
 
