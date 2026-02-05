@@ -8,11 +8,7 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 
 ## 1. Identity & Access (FOUNDATION)
 ### 🗂️ Active Directory Home Lab
-- **[Active Directory Domain Services (AD DS)](https://github.com/sfjsecurity)**     
-- **[User & Group Administration](https://github.com/sfjsecurity)**        
-- **[Group Policy Objects (GPOs)](https://github.com/sfjsecurity)**                 
-- **[Password & Account Lockout Policies](https://github.com/sfjsecurity)**  
-- **[PowerShell Automation (AD)](https://github.com/sfjsecurity)**
+- **[Active Directory Identity & Access Lab](https://github.com/sfjsecurity)**     
 
 ### 🔐 Identity & SaaS Administration (Microsoft 365)
 - **[Microsoft 365 Identity & Access Administration Lab](https://github.com/sfjsecurity/Microsoft-365-Admin-Lab)**
