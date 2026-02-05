@@ -6,29 +6,41 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 
 ## Projects
 
-## ⚠️ Vulnerability Management Projects
+## 1. Identity & Access (FOUNDATION)
+### 🗂️ Active Directory Home Lab
+- **[Active Directory Domain Services (AD DS)](https://github.com/sfjsecurity)**     
+- **[User & Group Administration)](https://github.com/sfjsecurity)**        
+- **[Group Policy Objects (GPOs)](https://github.com/sfjsecurity)**                 
+- **[Password & Account Lockout Policies)](https://github.com/sfjsecurity)**  
+- **[PowerShell Automation (AD)](https://github.com/sfjsecurity)**
+
+### 🔐 Identity & SaaS Administration (Microsoft 365)
+- **[Microsoft 365 User & Access Management](https://github.com/sfjsecurity)**
+- **[Authentication & MFA Support](https://github.com/sfjsecurity)**
+- **[Email & Outlook Administration](https://github.com/sfjsecurity)** 
+- **[Security Monitoring & Alert Review](https://github.com/sfjsecurity)**
+
+## 2. Vulnerability Management (FIND WEAKNESSES)
+### ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/sfjsecurity/vulnerability-management-project)**
 - **[Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/vulnerability-management-project)**
 
-## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sfjsecurity)**
+## 3. Detection & Monitoring (SEE ATTACKS)
+### 🕵️ Detection Lab
+- **[SIEM Implementation and Log Analysis)](https://github.com/sfjsecurity)**
+- **[Network Traffic Monitoring and Attack Detection)](https://github.com/sfjsecurity)**
 
-## ⚙️ SOC Automation Project
+## 4. SOC Automation & Incident Response (RESPOND)
+### ⚙️ SOC Automation Project
 - **[Security Automation with Shuffle SOAR)](https://github.com/sfjsecurity)**
 - **[Incident Response Planning and Execution)](https://github.com/sfjsecurity)**
 - **[Case Management with TheHive)](https://github.com/sfjsecurity)**
 - **[Scripting and Automation for Threat Mitigation)](https://github.com/sfjsecurity)**
 
-## 🕵️ Detection Lab
-- **[SIEM Implementation and Log Analysis)](https://github.com/sfjsecurity)**
-- **[Network Traffic Monitoring and Attack Detection)](https://github.com/sfjsecurity)**
+## 5. Threat Hunting (PROACTIVE)
+### 🚨 Threat Hunting and Security Operations
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sfjsecurity)**
 
-## 🗂️ Active Directory Home Lab
-- **[Active Directory Domain Services (AD DS)](https://github.com/sfjsecurity)**     
-- **[User & Group Administration)](https://github.com/sfjsecurity)**        
-- **[Group Policy Objects (GPOs)](https://github.com/sfjsecurity)**                 
-- **[Password & Account Lockout Policies)](https://github.com/sfjsecurity)**  
-- **[PowerShell Automation (AD)](https://github.com/sfjsecurity)**              
 
 ## Tools & Technologies
 
@@ -53,7 +65,10 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 
 ### Cloud / Infrastructure
 <div>
-    <a href="https://portal.azure.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <a href="https://portal.azure.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <a href="https://admin.microsoft.com"><img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <a href="https://entra.microsoft.com"><img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <a href="https://admin.exchange.microsoft.com"><img src="https://img.shields.io/badge/Exchange_Admin_Center-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   
 </div>
 
