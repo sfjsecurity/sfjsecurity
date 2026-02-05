@@ -15,7 +15,7 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 - **[PowerShell Automation (AD)](https://github.com/sfjsecurity)**
 
 ### 🔐 Identity & SaaS Administration (Microsoft 365)
-- **[Microsoft 365 Identity & Access Administration Lab](https://github.com/sfjsecurity)**
+- **[Microsoft 365 Identity & Access Administration Lab](https://github.com/sfjsecurity/Microsoft-365-Admin-Lab)**
 
 ## 2. Vulnerability Management (FIND WEAKNESSES)
 ### ⚠️ Vulnerability Management Projects
