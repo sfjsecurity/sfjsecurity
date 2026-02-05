@@ -9,9 +9,9 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 ## 1. Identity & Access (FOUNDATION)
 ### 🗂️ Active Directory Home Lab
 - **[Active Directory Domain Services (AD DS)](https://github.com/sfjsecurity)**     
-- **[User & Group Administration)](https://github.com/sfjsecurity)**        
+- **[User & Group Administration](https://github.com/sfjsecurity)**        
 - **[Group Policy Objects (GPOs)](https://github.com/sfjsecurity)**                 
-- **[Password & Account Lockout Policies)](https://github.com/sfjsecurity)**  
+- **[Password & Account Lockout Policies](https://github.com/sfjsecurity)**  
 - **[PowerShell Automation (AD)](https://github.com/sfjsecurity)**
 
 ### 🔐 Identity & SaaS Administration (Microsoft 365)
@@ -27,15 +27,15 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 
 ## 3. Detection & Monitoring (SEE ATTACKS)
 ### 🕵️ Detection Lab
-- **[SIEM Implementation and Log Analysis)](https://github.com/sfjsecurity)**
-- **[Network Traffic Monitoring and Attack Detection)](https://github.com/sfjsecurity)**
+- **[SIEM Implementation and Log Analysis](https://github.com/sfjsecurity)**
+- **[Network Traffic Monitoring and Attack Detection](https://github.com/sfjsecurity)**
 
 ## 4. SOC Automation & Incident Response (RESPOND)
 ### ⚙️ SOC Automation Project
-- **[Security Automation with Shuffle SOAR)](https://github.com/sfjsecurity)**
-- **[Incident Response Planning and Execution)](https://github.com/sfjsecurity)**
-- **[Case Management with TheHive)](https://github.com/sfjsecurity)**
-- **[Scripting and Automation for Threat Mitigation)](https://github.com/sfjsecurity)**
+- **[Security Automation with Shuffle SOAR](https://github.com/sfjsecurity)**
+- **[Incident Response Planning and Execution](https://github.com/sfjsecurity)**
+- **[Case Management with TheHive](https://github.com/sfjsecurity)**
+- **[Scripting and Automation for Threat Mitigation](https://github.com/sfjsecurity)**
 
 ## 5. Threat Hunting (PROACTIVE)
 ### 🚨 Threat Hunting and Security Operations
