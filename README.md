@@ -16,7 +16,7 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 ## 2. Vulnerability Management (FIND WEAKNESSES)
 ### ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/sfjsecurity/vulnerability-management-project)**
-- **[Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/vulnerability-management-project)**
+- **[Automated Vulnerability Remediation (PowerShell & Bash)](https://github.com/sfjsecurity/vulnerability-remediations)**
 
 ## 3. Detection & Monitoring (SEE ATTACKS)
 ### 🕵️ Detection Lab
