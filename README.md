@@ -32,7 +32,7 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 
 ## 5. Threat Hunting (PROACTIVE)
 ### 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sfjsecurity)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sfjsecurity/tor-threat-hunting-scenario)**
 
 
 ## Tools & Technologies
