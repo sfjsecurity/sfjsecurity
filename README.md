@@ -20,7 +20,7 @@ This repository documents my hands-on learning, problem-solving, and growth in I
 
 ## 3. Detection & Monitoring (SEE ATTACKS)
 ### 🕵️ Detection Lab
-- **[Azure Sentinel Global Threat Mapping (World Map Visualizations)](https://github.com/sfjsecurity/sentinel-geolocation-threat-visualization)**
+- **[Microsoft Sentinel Global Threat Mapping (World Map Visualizations)](https://github.com/sfjsecurity/microsoft-sentinel-geolocation-threat-visualization)**
 - **[SIEM Implementation and Log Analysis](https://github.com/sfjsecurity)**
 - **[Network Traffic Monitoring and Attack Detection](https://github.com/sfjsecurity)**
 
